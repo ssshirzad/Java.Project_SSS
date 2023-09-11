@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="WeekOne"/>
+	<classpathentry kind="src" path="WeekTwo"/>
+	<classpathentry kind="src" path="WeekThree"/>
+	<classpathentry kind="src" path="WeekFour"/>
+	<classpathentry kind="src" path="WeekFive"/>
+	<classpathentry kind="src" path="WeekSix"/>
+	<classpathentry kind="src" path="WeekSeven"/>
+	<classpathentry kind="src" path="WeekEight"/>
+	<classpathentry kind="src" path="WeekNine"/>
+	<classpathentry kind="src" path="InstructorCodes"/>
+	<classpathentry kind="src" path="JavaPrograms"/>
+	<classpathentry kind="src" path="NewPractice"/>
+	<classpathentry kind="src" path="ReplitCodes"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
