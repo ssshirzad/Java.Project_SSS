@@ -3,7 +3,7 @@ package day.four;
 public class Activity1Tester {
 	public static void main(String[] args) {
 		
-		Activity1Practice practice = new Activity1Practice("Nooryah", "Party");
+		Activity1Practiced practice = new Activity1Practiced("Nooryah", "Party");
 		
 	
 		System.out.println(practice.evenOddNumber(2));

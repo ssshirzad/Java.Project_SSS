@@ -1,8 +1,8 @@
 package day.one;
 
 public class StringClassUsage {
-	
-    public static void main(String[] args) {
+
+	public static void main(String[] args) {
         
         String firstName = "John";
          String lastName = "Smith";
@@ -22,8 +22,7 @@ public class StringClassUsage {
          char oneCharacter = fullName.charAt(2);
          
          // Returns the index of given char
-         int indexNumber = fullName.indexOf("J");
- ​
+     int indexNumber = fullName.indexOf("J");
          // Checks to see if the String contains the value given
          boolean itIncludes = firstName.contains("Joh");
          
@@ -39,8 +38,7 @@ public class StringClassUsage {
          // Checks to see if the value of the two given Strings are equal ignoring the cases
          boolean hasSameValueIgnoreCase = firstName.equalsIgnoreCase(lastName);
          
- ​
-         // Replaces the first instance on the first argument to the second argument
+      // Replaces the first instance on the first argument to the second argument
          String newFistName = firstName.replace("o", "a");
          
          // Replaces all of the instances of the first argument to the second argument
@@ -54,14 +52,12 @@ public class StringClassUsage {
          
          // Returns String of the given String in lower case
          String firstNameLower = firstName.toLowerCase();
- ​
-         // Returns String of the given String in upper case
+     // Returns String of the given String in upper case
          String firstNameUpper = firstName.toUpperCase();
          
          // Converts the given value to String and returns that String
          String boolValue = String.valueOf(false);
      
      }
- 
 
 }

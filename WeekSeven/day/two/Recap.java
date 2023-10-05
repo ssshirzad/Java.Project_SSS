@@ -15,10 +15,10 @@ public class Recap {
 	
 		final int branchCount = 16; 
 		
-		System.out.println(Recap.STATIC_VARIABLE);
+		System.out.println(Recapb.STATIC_VARIABLE);
 		//Calling a class and method name
 		double random = Math.random();
-		Recap.printMessage();
+		Recapb.printMessage();
 	}
 	
 	//final method mean avoiding override 

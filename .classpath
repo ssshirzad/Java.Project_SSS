@@ -18,6 +18,5 @@
 	<classpathentry kind="src" path="InstructorCodes"/>
 	<classpathentry kind="src" path="JavaPrograms"/>
 	<classpathentry kind="src" path="NewPractice"/>
-	<classpathentry kind="src" path="ReplitCodes"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

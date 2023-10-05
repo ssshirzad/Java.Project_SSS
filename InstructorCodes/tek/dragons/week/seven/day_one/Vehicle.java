@@ -7,7 +7,7 @@ public class Vehicle {
 		this.make = make; 
 	}
 	
-	public void printMake() {
+	public static void printMake() {
 		System.out.println(this.make);
 	}
 	
